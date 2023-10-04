@@ -5,4 +5,5 @@ const heading = React.createElement(
 );
 //console.log(heading); // this will return object
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(heading);
+root.render(heading); // takes object and converts to heading tag and puts in the DOM
+///////////////////////////////////////////////////////////////////////////////////////////////////
