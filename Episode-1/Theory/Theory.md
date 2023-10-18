@@ -1,4 +1,4 @@
-## Namaste React Course by Akshay Saini
+## Namaste React
 
 # _Chapter 01 - Inception_
 
