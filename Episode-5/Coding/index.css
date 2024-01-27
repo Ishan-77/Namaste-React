@@ -1,0 +1,49 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+}
+
+.logo {
+  width: 120px;
+}
+
+.nav-items > ul {
+  font-size: 18px;
+  display: flex;
+  list-style-type: none;
+}
+
+.nav-items > ul > li {
+  margin: 7px;
+  padding: 10px;
+}
+
+.res-card {
+  height: 375px;
+  width: 250px;
+  padding: 3px;
+}
+.res-card:hover {
+  cursor: pointer;
+  border: 1px solid black;
+  margin: 3px;
+}
+
+.search {
+  padding: 10px;
+}
+
+.res-logo {
+  width: 100%;
+  height: 200px;
+}
+
+.res-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.filter-btn {
+  margin: 10px;
+  cursor: pointer;
+}
